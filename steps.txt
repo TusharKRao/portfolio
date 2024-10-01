@@ -1,0 +1,8 @@
+npx create-next-app@latest ./
+npm install react-icons
+npm i framer-motion clsx tailwind-merge
+npm install mini-svg-data-uri
+npm install tailwindcss-animate
+npm i framer-motion clsx tailwind-merge
+npm i next-themes
+npm install react-icons
