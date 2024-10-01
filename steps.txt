@@ -6,3 +6,4 @@ npm install tailwindcss-animate
 npm i framer-motion clsx tailwind-merge
 npm i next-themes
 npm install react-icons
+npm i three three-globe @react-three/fiber @react-three/drei
